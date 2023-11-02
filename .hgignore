@@ -1,4 +1,0 @@
-syntax: glob
-.vs
-AccessMethodsPerformance/bin
-AccessMethodsPerformance/obj
